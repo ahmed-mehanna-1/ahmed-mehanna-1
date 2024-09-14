@@ -89,5 +89,5 @@ I am a Software Development Engineer <img src="https://media.giphy.com/media/WUl
 ---
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Spring Boot Method Logging](https://medium.com/@ahmadabobakr1/spring-boot-method-logging-f956f39c2fa7?source=rss-d8b9bf619105------2)
+- [Spring Boot Methdod Logging](https://medium.com/@ahmed-mehanna/spring-boot-methdod-logging-0dc80a81a05d?source=rss-d8b9bf619105------2)
 <!-- BLOG-POST-LIST:END -->
