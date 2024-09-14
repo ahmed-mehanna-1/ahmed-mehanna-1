@@ -32,9 +32,9 @@
 ---
 ### :man_technologist: About Me :
 I am a Software Development Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
-- :telescope: I’m working as a Software Engineer and contributing to system design, code design, performance enhancement, code refactoring and backend development for building web applications.
+- :telescope: I’m working as a Software Engineer and contributing to system design, code design, performance enhancement, code refactoring, and backend development for building web applications.
 - :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I solve problems on Leetcode and others, learn technologies I'm using in depth and read tech articles.
+- :zap: In my free time, I solve problems on Leetcode and others, learn technologies I'm using in-depth, and read tech articles.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ahmed-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mehanna-%F0%9F%87%B5%F0%9F%87%B8-9231bb1a3/)
 
 ---
