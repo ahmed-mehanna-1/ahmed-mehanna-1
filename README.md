@@ -31,7 +31,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" title="Redis"  alt="Redis" width="60" height="60"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" title="Elastic"  alt="Elastic" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp; 
-  <img src="https://github.com/ahmed-mehanna-1/ahmed-mehanna-1/blob/main/icons/api.svg" title="API" alt="API" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/ahmed-abobakr-mehanna/ahmed-abobakr-mehanna/blob/main/icons/api.svg" title="API" alt="API" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg" title="Maven" alt="Maven" width="60" height="60"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="BASH" alt="BASH" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
@@ -77,7 +77,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 
 ---
 ### Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-mehanna-1&hide=Jupyter%20Notebook&langs_count=20&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-abobakr-mehanna&hide=Jupyter%20Notebook&langs_count=20&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Publications
 <div>
@@ -155,7 +155,7 @@ You can find my publications on Medium and Dev.to, where I share career insights
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmed-mehanna-1&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=ahmed-abobakr-mehanna&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h1 align="center">
@@ -260,7 +260,7 @@ I am a Software Development Engineer <img src="https://media.giphy.com/media/WUl
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/thealgorithms/thealgorithms-original-wordmark.svg" title="Algorithms" alt="Algorithms" width="60" height="60"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original-wordmark.svg" title="Hadoop" alt="Hadoop" width="60" height="60"/>&nbsp; 
-  <img src="https://github.com/ahmed-mehanna-1/ahmed-mehanna-1/blob/main/icons/api.svg" title="API" alt="API" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/ahmed-abobakr-mehanna/ahmed-abobakr-mehanna/blob/main/icons/api.svg" title="API" alt="API" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg" title="Maven" alt="Maven" width="60" height="60"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original-wordmark.svg" title="Gradle" alt="Gradle" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="BASH" alt="BASH" width="60" height="60"/>&nbsp;
@@ -270,6 +270,6 @@ I am a Software Development Engineer <img src="https://media.giphy.com/media/WUl
 
 ---
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-mehanna-1&hide=Jupyter%20Notebook&langs_count=20&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-abobakr-mehanna&hide=Jupyter%20Notebook&langs_count=20&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
