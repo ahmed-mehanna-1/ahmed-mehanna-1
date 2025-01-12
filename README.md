@@ -67,6 +67,9 @@ I’m driven by a love for solving problems! With a technical background, I’ve
   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original-wordmark.svg" title="Gradle" alt="Gradle" width="60" height="60"/>&nbsp;
 </div>
 
+### Under Development
+- DLMS Protocol in Rust
+
 ### Studying
 - System Engineering using Rust
 - Database Internals
