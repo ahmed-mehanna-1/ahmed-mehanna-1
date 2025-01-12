@@ -111,6 +111,7 @@ You can find my publications on Medium and Dev.to, where I share career insights
 ---
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Java Logging Mechanism Using AOP](https://medium.com/@ahmed-mehanna/spring-boot-methdod-logging-0dc80a81a05d?source=rss-d8b9bf619105------2)
 <!-- BLOG-POST-LIST:END -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A6CDC6&height=120&section=footer" alt="footer"/>
