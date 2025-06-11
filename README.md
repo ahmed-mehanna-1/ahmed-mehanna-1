@@ -70,12 +70,13 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 </div>
 
 ### Under Development
+- Diameter Stack Protocol in Rust
 - DLMS Protocol in Rust
 
 ### Studying
 - System Engineering using Rust
 - Database Internals
-- Distrubted Systems in advance
+- Distributed Systems in advance
 
 ---
 ### Stats :
