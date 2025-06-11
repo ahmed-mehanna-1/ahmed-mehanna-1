@@ -74,7 +74,8 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 - DLMS Protocol in Rust
 
 ### Studying
-- System Engineering using Rust
+- Computer Architecture
+- System Engineering
 - Database Internals
 - Distributed Systems in advance
 
