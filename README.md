@@ -36,6 +36,8 @@ I’m driven by a love for solving problems! With a technical background, I’ve
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="BASH" alt="BASH" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Vim" alt="Vim" width="60" height="60"/>
 </div>
 
 ### Other Technologies
@@ -77,7 +79,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 
 ---
 ### Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMehanna1&hide=Jupyter%20Notebook&langs_count=20&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMehanna1&size_weight=0.8&count_weight=0.2&card_width=500px&custom_title=Most%20Used%20Programming%20Languages&langs_count=20&hide=Jupyter%20Notebook,PHP,javascript,lua,blade&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Publications
 <div>
